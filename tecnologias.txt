@@ -1,0 +1,10 @@
+=====================
+	Tecnologias que conosco
+				por Alejandro Miranda
+- Networking
+	routing and switching esentials
+	wireless essentials WLAN
+	
+- programing
+	python essential
+- git essentials

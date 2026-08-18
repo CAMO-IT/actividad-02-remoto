@@ -1,0 +1,7 @@
+				MATERIAS II/2026
+
+ | SIGLA	| MATERIA				| PARALELO |
+--------------------------------------------------------------------
+ | MAT 1437 	| ESTADISTICA APLICADA			| A	   |			 
+ | SIS 2420	| ACTUALIZACION TECNOLOGICA		| A	   |
+ | SIS 4710	| METODOLOGIA DE LA INVESTIGACION	| A	   |
