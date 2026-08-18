@@ -8,3 +8,4 @@
 - programing
 	python essential
 - git essentials
+- Linux essentials
